@@ -1,0 +1,168 @@
+{
+  "identifier" : "94693746",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "AA630283",
+      "localizations" : [
+        {
+          "description" : "One Coffee",
+          "displayName" : "One Coffee",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.OneCoffee",
+      "referenceName" : "OneCoffee",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "52F03417",
+      "localizations" : [
+        {
+          "description" : "Two Coffees",
+          "displayName" : "Two Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.TwoCoffees",
+      "referenceName" : "TwoCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "C87796FD",
+      "localizations" : [
+        {
+          "description" : "Three Coffees",
+          "displayName" : "Three Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.ThreeCoffees",
+      "referenceName" : "ThreeCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "B4582AF2",
+      "localizations" : [
+        {
+          "description" : "Four Coffees",
+          "displayName" : "Four Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.FourCoffees",
+      "referenceName" : "FourCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "3505854F",
+      "localizations" : [
+        {
+          "description" : "Ten Coffees",
+          "displayName" : "Ten Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.TenCoffees",
+      "referenceName" : "TenCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "D136E6C9",
+      "localizations" : [
+        {
+          "description" : "Twenty Coffees",
+          "displayName" : "Twenty Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.TwentyCoffees",
+      "referenceName" : "TwentyCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : false,
+      "internalID" : "F6A639F4",
+      "localizations" : [
+        {
+          "description" : "Thirty Coffees",
+          "displayName" : "Thirty Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.ThirtyCoffees",
+      "referenceName" : "ThirtyCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "39.99",
+      "familyShareable" : false,
+      "internalID" : "182677EF",
+      "localizations" : [
+        {
+          "description" : "Forty Coffees",
+          "displayName" : "Forty Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.FortyCoffees",
+      "referenceName" : "FortyCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "6E3DF147",
+      "localizations" : [
+        {
+          "description" : "Fifty Coffees",
+          "displayName" : "Fifty Coffees",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.FiftyCoffees",
+      "referenceName" : "FiftyCoffees",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "1B56871C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "org.avicinaraka.FiveCoffees",
+      "referenceName" : "FiveCoffees",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
